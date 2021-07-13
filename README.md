@@ -1,16 +1,16 @@
-### Hi there 👋
+### Orlando Felipe
+![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**Rustuh/Rustuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Orlando Felipe from Brazil, and I do content on Design and Development. I really like to keep up-to-date on languages ​​and frameworks. I'm in the learning process in the development area and I'm looking for a solid base to work in the software development, process modeling and project management market.
 
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rustuh)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Skills:  REACT / JS / HTML / CSS
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Rustuh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/orlando-felipe-jesus-da-silva-26255621//)  
+
+
+

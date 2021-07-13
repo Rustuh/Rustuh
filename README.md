@@ -7,9 +7,9 @@ I'm Orlando Felipe from Brazil, and I do content on Design and Development. I re
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rustuh)](https://github.com/anuraghazra/github-readme-stats)
 
 
-Skills:  
-       ⚛️ REACT 
-       💻 JS/HTML/CSS
+## Skills:
+<p>⚛️ REACT 
+<p>💻 JS/HTML/CSS
        
 
 
